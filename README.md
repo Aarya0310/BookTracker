@@ -1,0 +1,21 @@
+# 📚 BookWise - Book Recommendation Tracker
+
+A simple, full-stack web application to track books you have read or want to read. Built with Python Flask and SQLite.
+
+## 🛠 Tech Stack
+- **Backend:** Python, Flask
+- **Database:** SQLite
+- **Frontend:** HTML5, CSS3
+
+## ✨ Features
+- Add books with Title, Author, Category, and Rating.
+- Mark books as "Read" or "To-Read".
+- View all books in a clean dashboard.
+- Delete books from the collection.
+
+## 🚀 How to Run Locally
+
+1. **Clone or Download** this repository.
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
