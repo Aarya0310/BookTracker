@@ -13,9 +13,3 @@ A simple, full-stack web application to track books you have read or want to rea
 - View all books in a clean dashboard.
 - Delete books from the collection.
 
-## 🚀 How to Run Locally
-
-1. **Clone or Download** this repository.
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
